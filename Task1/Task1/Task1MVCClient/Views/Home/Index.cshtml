@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.NET MVC access WCF using Http and TCP.</h1>
+    
+</div>
+
+@using (Html.BeginForm())
+{
+<div class="row">
+    <h6>Access WCF using HTTP</h6>
+    <input type="submit" name="submit" value="http"/>
+    @{
+        @ViewBag.HelloHttp
+        @ViewBag.ProgramHttp
+    }
+</div>
+<div class="row">
+    <h6>Access WCF using TCP</h6>
+    <input type="submit" name="submit" value="tcp" />
+    @{
+        @ViewBag.HelloTcp
+        @ViewBag.ProgramTcp
+    }
+</div>
+        }

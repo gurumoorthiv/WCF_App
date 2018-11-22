@@ -1,0 +1,7 @@
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpeningClient\bin\roslyn\csc.exe
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpeningClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpeningClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpeningClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpeningClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpeningClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpeningClient\bin\roslyn\VBCSCompiler.exe

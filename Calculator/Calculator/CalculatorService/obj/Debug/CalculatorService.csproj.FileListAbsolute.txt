@@ -1,0 +1,6 @@
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorService\bin\CalculatorService.dll.config
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorService\bin\CalculatorService.dll
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorService\bin\CalculatorService.pdb
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorService\obj\Debug\CalculatorService.csprojResolveAssemblyReference.cache
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorService\obj\Debug\CalculatorService.dll
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorService\obj\Debug\CalculatorService.pdb

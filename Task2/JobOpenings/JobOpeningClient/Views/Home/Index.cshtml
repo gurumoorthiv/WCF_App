@@ -1,0 +1,38 @@
+﻿@model JobOpeningClient.Models.JobOpeningModel
+
+@{
+    ViewBag.Title = "WCF";
+}
+
+<div class="jumbotron">
+    <h1>MVC access WCF using http protocol</h1>
+</div>
+
+@using (Html.BeginForm())
+{
+    <div class="row">
+        <h6>Access WCF using MVC</h6>
+        <input type="submit" name="submit" value="Get Job Opening" />
+        Role : @Html.TextBoxFor(x => x.Role);
+        <input type="submit" name="submit" value="Get Job Opening By Role" />
+        @{
+            <div class="row">
+                <div class="form-group">
+                    <span class="col-md-6">Job Description</span>
+                    <span class="col-md-6">Job Role</span>
+                </div>
+            </div>
+
+            foreach (JobOpeningClient.ServiceReference1.JobOpening job in @Model.JobOpenings)
+            {
+                <div class="row">
+                    <div class="form-group">
+                        <span class="col-md-6">@job.JobDescription</span>
+                        <span class="col-md-6">@job.Role</span>
+                    </div>
+                </div>
+            }
+
+        }
+    </div>
+    }

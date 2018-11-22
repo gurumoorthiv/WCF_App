@@ -1,0 +1,6 @@
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpenings\bin\JobOpenings.dll.config
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpenings\bin\JobOpenings.dll
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpenings\bin\JobOpenings.pdb
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpenings\obj\Debug\JobOpenings.csprojResolveAssemblyReference.cache
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpenings\obj\Debug\JobOpenings.dll
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Task2\JobOpenings\JobOpenings\obj\Debug\JobOpenings.pdb

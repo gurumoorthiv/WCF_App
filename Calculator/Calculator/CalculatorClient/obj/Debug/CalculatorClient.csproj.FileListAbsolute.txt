@@ -1,0 +1,9 @@
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorClient\bin\Debug\CalculatorClient.exe.config
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorClient\bin\Debug\CalculatorClient.exe
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorClient\bin\Debug\CalculatorClient.pdb
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorClient\obj\Debug\CalculatorClient.csprojResolveAssemblyReference.cache
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorClient\obj\Debug\CalculatorClient.Form1.resources
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorClient\obj\Debug\CalculatorClient.Properties.Resources.resources
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorClient\obj\Debug\CalculatorClient.csproj.GenerateResource.Cache
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorClient\obj\Debug\CalculatorClient.exe
+C:\Assignments\WCF\21-WCFAssignment-1DOTNET\Calculator\Calculator\CalculatorClient\obj\Debug\CalculatorClient.pdb
